@@ -1,13 +1,19 @@
 best practices along with their video times:
 0:00 - Intro
-0:50 -  Name things well
+0:50 -  Name things well: name that tell you simethig about the project youa are developing. Solution name should not match our project name
+
 7:51 - One class per file
+
 10:18 - Use properties not variables
+
 12:57 - Methods should do one thing
+In the main method should only be calls to methods
+
 23:27 - Keep it simple
 28:21 - Be consistent
 32:22 - Use curly braces for if statements
 37:45 - Concatenate strings using $""
+also, you can use string builder: StringBuilder sb = new StringBuilder(); sb.Append("Hi "); 
 45:37 - Avoid global variables
 48:39 - Use public modifier only when necessary
 50:54 -  Never trust the user (bonus)
