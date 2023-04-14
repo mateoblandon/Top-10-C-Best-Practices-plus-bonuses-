@@ -1,0 +1,15 @@
+best practices along with their video times:
+0:00 - Intro
+0:50 -  Name things well
+7:51 - One class per file
+10:18 - Use properties not variables
+12:57 - Methods should do one thing
+23:27 - Keep it simple
+28:21 - Be consistent
+32:22 - Use curly braces for if statements
+37:45 - Concatenate strings using $""
+45:37 - Avoid global variables
+48:39 - Use public modifier only when necessary
+50:54 -  Never trust the user (bonus)
+52:24 -  Plan before you build
+55:31 - Concluding remarks
